@@ -1,6 +1,6 @@
 # E9955 Linux / kevät 2020 5 op
 
-Opintojaksolla perehdytään Linux-käyttöjärjestelmän rooliin, sen mahdollisuuksiin osana yritysten tietojärjestelmiä sekä tutustutaan Linux-pohjaisten työasemien ja palvelimien käyttöön ja hallintaan. Opintojakson aiheina mm. käyttöjärjestelmän asentaminen ja konfigurointi, erilaisten palveluiden/palvelimien asennus ja ylläpito, tavallisimpien sovellusten käyttö, varmuuskopiointi, tietoturva-asiat sekä yksinkertaisten komentoriviohjelmien tuottaminen.
+Opintojakso on vapaavalintainen opintojakso Laurea-ammattikorkeakoulussa osana tietojenkäsittelyn tutkintoa. Opintojaksolla perehdytään Linux-käyttöjärjestelmän rooliin, sen mahdollisuuksiin osana yritysten tietojärjestelmiä sekä tutustutaan Linux-pohjaisten työasemien ja palvelimien käyttöön ja hallintaan. Opintojakson aiheina mm. käyttöjärjestelmän asentaminen ja konfigurointi, erilaisten palveluiden/palvelimien asennus ja ylläpito, tavallisimpien sovellusten käyttö, varmuuskopiointi, tietoturva-asiat sekä yksinkertaisten komentoriviohjelmien tuottaminen.
 
 Opintojakson osaamistavoite:
 
