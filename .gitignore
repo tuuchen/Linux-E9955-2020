@@ -1,0 +1,6 @@
+# remove .docx, .pdf, .pptx & .epub
+
+*.docx
+*.pdf
+*.pptx
+*.epub
