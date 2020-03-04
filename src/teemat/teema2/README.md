@@ -1,5 +1,5 @@
 [Takaisin alkuun](../../../README.md)
 
-# Asennus ja peruskäyttö
+# Linuxin asennus ja peruskäyttö
 
 ## // Todo..
