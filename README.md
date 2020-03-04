@@ -12,7 +12,7 @@ Opintojakson osaamistavoite:
 
 ## Sisällysluettelo
 
-Opintojen järjestys alapuolella.
+Opintojakson järjestys alapuolella.
 
 | Teema |                                       Sisältö                                       | Palautukset                            |
 | :---- | :---------------------------------------------------------------------------------: | -------------------------------------- |
