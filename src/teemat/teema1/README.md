@@ -20,7 +20,7 @@ Linuxiin on tarjolla yhä kattavampi tarjonta sovelluksia, mutta käyttäjän ka
 
 Käyttäjän kannalta huomionarvoinen asennustapa onkin niin sanottu dual boot, jossa tietokoneen käynnistämisen yhteydessä valitaan Windows tai Linux käyttöjärjestelmän väliltä, jolloin käyttäjä pääsee hyödyntämään molempien käyttöjärjestelmien parhaita puolia.
 
---------------------------------------------------------------------------------
+---
 
 - ### Vertaa GPL-lisenssiä muihin suosittuihin avoimen lähdekoodin lisensseihin, kuten Apache ja MIT. Mitä eroja ja yhtäläisyyksiä näillä on? (C)
 
@@ -30,13 +30,11 @@ GPL-lisenssi on erityisesti Linuxin jakelusta tuttu avoimen lähdekoodin lisenss
 
 MIT-lisenssistä poiketen Apache sekä GPLv3 -lisenssit sisältävät patenttisuojapykälän, joka antaa käyttäjälle oikeuden käyttää kaikkia ohjelmistosta tuotettuja patentteja lisensoidun ohjelmiston suorittamiseen, ja tämä oikeus raukeaa mikäli käyttäjä yrittää haastaa toisen käyttäjän patenttirikkomuksesta oikeuteen.
 
---------------------------------------------------------------------------------
+---
 
 - ### Etsi verkosta tai haluamastasi lehdestä Linux-aiheinen uutinen ja kerro lyhyesti mistä oli kyse? (D)
 
-![testi](../../../src/materiaali/uutinen.webm)
-
-![testi](http://student.labranet.jamk.fi/~sahka/password.webm)
+[![Video](../../../src/materiaali/uutinen.png)](https://areena.yle.fi/1-3675453)
 
 [Maailman yleisin käyttöjärjestelmä keksittiin Suomessa – Tiesitkö, että käytät Linuxia päivittäin?](https://yle.fi/uutiset/3-9112625)
 
@@ -56,16 +54,16 @@ Kuten artikkelissa mainittiin, olet todennäköisesti tämän luettuasi tänää
 
 Tekstiä
 
---------------------------------------------------------------------------------
+---
 
 - ### Etsi verkosta ja lehdistä työpaikkailmoituksia, joissa haetaan/tarvitaan Linux-osaajia tai osaamista, millaisia löysit? Mitä osaamista ilmoituksissa erityisesti kaivataan, mille aloille ja mihin tehtäviin ilmoitukset sijoittuvat?
 
 Tekstiä
 
---------------------------------------------------------------------------------
+---
 
 - ### Selvitä mikä on avoimen lähdekoodin rooli ja mihin Open Source -sovelluksia käytetään työmarkkinoilla tänä päivänä?
 
 Tekstiä
 
---------------------------------------------------------------------------------
+---
