@@ -1,5 +1,73 @@
 [Takaisin alkuun](../../../README.md)
 
-# Johdatus Linuxiin
+# 1\. Johdatus Linuxiin
 
-## // Todo..
+- ### Mihin asioihin jakelupaketin valinnassa kannattaa kiinnittää huomiota ja millaisia ominaisuuksia käyttäjille olisi tarjolla? (A)
+
+Linuxiin perustuvia käyttöjärjestelmiä eli jakeluita on satoja, joten kannattaa kiinnittää huomiota siihen, mitä käyttöjärjestelmältä haluaa ja mitä ominaisuuksia siihen tarvitsee, ja yksi keino tämän hahmottamiseen on omat käyttötottumukset, esimerkiksi viihde, työ- tai pelikäyttö.
+
+Huomionarvoista on myös, että vaikka Linuxin asetuksia voidaan hallita graafisella käyttöliittymällä, ilman Linuxin komentorivin hallinnan opettelua ei Linuxia kannata tosissaan harkita.
+
+Linuxin vahvuutena on kuitenkin vaihtojen tarjoaminen, ja jakelupaketin käyttöliittymiä voidaan tyypillisesti asentaa vapaasti eri versioiden välillä, mutta oletuksena jakelupakettien mukana tulee kuitenkin omansa.
+
+Käyttäjän kannattaa ottaa siis myös huomioon, että kuinka paljon käyttöliittymää haluaa itse muokata. Esimerkkinä Gnome jakelu tarjoaa käyttöliittymältä yksinkertaisuutta, ja puolestaan KDE jakelu antaa käyttäjän muokata käyttöliittymää lähes loputtomasti.
+
+Linux käyttöjärjestelmien päivitykset tapahtuu paketinhallinnan kautta, ja Linux käyttöjärjestelmien päivitysmalli on jakautunut kahteen leiriin, jossa toisessa päivitykset tapahtuvat isomman puolivuotisen koko jakelun kattavan päivityksen yhteydessä, ja toisessa päivityksiä tulee säännöllisin väliajoin. Säännölliset päivitykset tarjoavat käyttäjälle uusimpia ominaisuuksia, mutta riskinä on järjestelmän rikkoontuminen viallisen päivityksen yhteydessä.
+
+Hitaampi päivitysmalli tarjoaa siis käyttäjälle vakaampaa toimintaa, ja nopeaa julkaisumallia suositellaan edistyneemmille käyttäjille.
+
+Linuxiin on tarjolla yhä kattavampi tarjonta sovelluksia, mutta käyttäjän kannattaa ottaa huomioon, ettei Linuxilla voi varsinaisesti korvata Windows -käyttöjärjestelmää. Windowsin sovellukset eivät siis välttämättä toimi Linuxissa, mutta esimerkiksi Microsoft Officen voi Linuxissa korvata LibreOfficella sekä Photoshopin toimintoja vastaa Linuxissa Gimp. Myös pelikirjasto Linuxissa toimivissa peleissä on vastaavasti suppeampi kuin Windowsilla.
+
+Käyttäjän kannalta huomionarvoinen asennustapa onkin niin sanottu dual boot, jossa tietokoneen käynnistämisen yhteydessä valitaan Windows tai Linux käyttöjärjestelmän väliltä, jolloin käyttäjä pääsee hyödyntämään molempien käyttöjärjestelmien parhaita puolia.
+
+--------------------------------------------------------------------------------
+
+- ### Vertaa GPL-lisenssiä muihin suosittuihin avoimen lähdekoodin lisensseihin, kuten Apache ja MIT. Mitä eroja ja yhtäläisyyksiä näillä on? (C)
+
+Yhtäläistä GPL, Apache sekä MIT -lisensseille on, että ne antavat vapaasti luvan lähdekoodin käyttämiseen sekä yksiyiseen että kaupalliseen käyttöön, kunhan alkuperiselle tekijälle annetaan tunnustus copyright huomautuksen muodossa. Niissä myöskin todetaan, että ohjelmiston toiminta ja vastuu jää ohjelmistokoodin käyttäjän kannettavaksi.
+
+GPL-lisenssi on erityisesti Linuxin jakelusta tuttu avoimen lähdekoodin lisenssi, joka on MIT sekä Apache -lisenssistä poiketen niin sanottu copyleft-lisenssi, joka vaatii että lähdekoodista tuotetut teokset ovat myös GPL-lisenssin alaisuudessa, eikä siihen saa lisätä uusia rajoitteita. GPL-lisenssi vaatii myös, että muutoksista pitää lisätä huomio, ja ohjelman tulee sisältää tieto kyseisestä lisenssistä. GPL-lisenssin mukaisesti lähdekoodi pitää olla saatavana kaikille, joille lisenssin alaisuudessa olevaa ohjelmaa on levitetty. GPL-lisenssi siis kannustaa kehittäjiä suosimaan vaapata lähdekoodia.
+
+MIT-lisenssistä poiketen Apache sekä GPLv3 -lisenssit sisältävät patenttisuojapykälän, joka antaa käyttäjälle oikeuden käyttää kaikkia ohjelmistosta tuotettuja patentteja lisensoidun ohjelmiston suorittamiseen, ja tämä oikeus raukeaa mikäli käyttäjä yrittää haastaa toisen käyttäjän patenttirikkomuksesta oikeuteen.
+
+--------------------------------------------------------------------------------
+
+- ### Etsi verkosta tai haluamastasi lehdestä Linux-aiheinen uutinen ja kerro lyhyesti mistä oli kyse? (D)
+
+<div class="yle_areena_player" data-id="1-3675453">
+</div>
+
+<script src="https://player-v2.yle.fi/embed.js" defer="">
+</script>
+
+[Maailman yleisin käyttöjärjestelmä keksittiin Suomessa – Tiesitkö, että käytät Linuxia päivittäin?](https://yle.fi/uutiset/3-9112625)
+
+Linux on maailman käytetyin käyttöjärjestelmä, vaikka ihmiset ei sitä välttämättä tiedosta. Ironista onkin, että vaikka Linux alunperin tarkoitettiin työpöytäkäyttöön, on Linux nimenomaan käyttöjärjestelmänä valloittanut kaiken muun, paitsi työpöydät. Syynä tähän on Windows käyttöjärjestelmän monopoliasema valmiiksi asennettuna käyttöjärjestelmänä.
+
+Mobiilipuolella käyttäjä puolestaan saa hyvin todennäköisenä vaihtoehtona laitteeseen esiasennettuna Linux pohjaisen Androidin, sillä Androidin osuus myydyistä mobiililaitteista on jo noin 85%, ja kokonaisuudessaan Linux pohjaisia Android laitteita on Googlen mukaan aktiivisessa käytössä yli 1.4 miljardia.
+
+Linux käyttöjärjestelmät ovat laajassa käytössä erityisesti palvelinympäristöstä, ja vastaavatkin monessa tapauksessa pilvipalveluiden toiminnasta, kuten Amazonin järjestelmistä, Facebookin tietokannoista, sekä Googlen hakutoiminnosta. Myös 99% maailmalla olevista supertietokoneista käyttää Linuxia. Linux on suosittu palvelinympäristöissä erityisesti sen luotettavuuden, modulaarisuuden, joustavuuden, sekä kustannustehokkuuden ansiosta.
+
+Avoimen lähdekoodinsa ansiosta Linux on myös suosittu älyä sisältävässä kodin elektroniikassa, kuten esimerkiksi älytelevisioissa, älykelloissa, lieseissä tai pesukoneissa, kuin myös teollisuuden applikaatioissa, kuten bensapumpuilla sekä aikataulunäytöissä.
+
+Kuten artikkelissa mainittiin, olet todennäköisesti tämän luettuasi tänäänkin hyödyntänyt Linuxia!
+
+# 2\. Linux työmarkkinoilla
+
+- ### Miltä näyttää Linux-osaajien työtilanne tällä hetkellä [Open Source Job Reportin 2018](https://www.linuxfoundation.org/publications/2018/06/open-source-jobs-report-2018/) ja [Linux Job Reports 2017](https://resources.linuxfoundation.org/LF+Core/publication_Linux_2017_Jobs_Report_final.pdf) -raportin mukaan? Miten tilanne on kehittynyt edellisiin vuosiin verrattuna?
+
+Tekstiä
+
+--------------------------------------------------------------------------------
+
+- ### Etsi verkosta ja lehdistä työpaikkailmoituksia, joissa haetaan/tarvitaan Linux-osaajia tai osaamista, millaisia löysit? Mitä osaamista ilmoituksissa erityisesti kaivataan, mille aloille ja mihin tehtäviin ilmoitukset sijoittuvat?
+
+Tekstiä
+
+--------------------------------------------------------------------------------
+
+- ### Selvitä mikä on avoimen lähdekoodin rooli ja mihin Open Source -sovelluksia käytetään työmarkkinoilla tänä päivänä?
+
+Tekstiä
+
+--------------------------------------------------------------------------------
