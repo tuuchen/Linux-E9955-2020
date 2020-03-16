@@ -34,11 +34,9 @@ MIT-lisenssistä poiketen Apache sekä GPLv3 -lisenssit sisältävät patenttisu
 
 - ### Etsi verkosta tai haluamastasi lehdestä Linux-aiheinen uutinen ja kerro lyhyesti mistä oli kyse? (D)
 
-<div class="yle_areena_player" data-id="1-3675453">
-</div>
+![testi](../../../src/materiaali/uutinen.webm)
 
-<script src="https://player-v2.yle.fi/embed.js" defer="">
-</script>
+![testi](http://student.labranet.jamk.fi/~sahka/password.webm)
 
 [Maailman yleisin käyttöjärjestelmä keksittiin Suomessa – Tiesitkö, että käytät Linuxia päivittäin?](https://yle.fi/uutiset/3-9112625)
 
