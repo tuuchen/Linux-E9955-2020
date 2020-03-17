@@ -34,11 +34,11 @@ MIT-lisenssistä poiketen Apache sekä GPLv3 -lisenssit sisältävät patenttisu
 
 - ### Etsi verkosta tai haluamastasi lehdestä Linux-aiheinen uutinen ja kerro lyhyesti mistä oli kyse? (D)
 
-[![Video](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/uutinen.PNG)](https://areena.yle.fi/1-3675453)
-
 [Maailman yleisin käyttöjärjestelmä keksittiin Suomessa – Tiesitkö, että käytät Linuxia päivittäin?](https://yle.fi/uutiset/3-9112625)
 
-Linux on maailman käytetyin käyttöjärjestelmä, vaikka ihmiset ei sitä välttämättä tiedosta. Ironista onkin, että vaikka Linux alunperin tarkoitettiin työpöytäkäyttöön, on Linux nimenomaan käyttöjärjestelmänä valloittanut kaiken muun, paitsi työpöydät. Syynä tähän on Windows käyttöjärjestelmän monopoliasema valmiiksi asennettuna käyttöjärjestelmänä.
+[![Video](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/uutinen-1.PNG)](https://areena.yle.fi/1-3675453)
+
+Linux on maailman käytetyin käyttöjärjestelmä, vaikka ihmiset ei sitä välttämättä tiedosta. Ironista onkin, että vaikka Linux alunperin tarkoitettiin työpöytäkäyttöön, on Linux nimenomaan käyttöjärjestelmänä valloittanut kaiken muun, paitsi työpöydät. Syynä tähän on Windows käyttöjärjestelmän monopoliasema valmiiksi asennettuna käyttöjärjestelmänä työpöytälaitteissa.
 
 Mobiilipuolella käyttäjä puolestaan saa hyvin todennäköisenä vaihtoehtona laitteeseen esiasennettuna Linux pohjaisen Androidin, sillä Androidin osuus myydyistä mobiililaitteista on jo noin 85%, ja kokonaisuudessaan Linux pohjaisia Android laitteita on Googlen mukaan aktiivisessa käytössä yli 1.4 miljardia.
 
@@ -46,19 +46,76 @@ Linux käyttöjärjestelmät ovat laajassa käytössä erityisesti palvelinympä
 
 Avoimen lähdekoodinsa ansiosta Linux on myös suosittu älyä sisältävässä kodin elektroniikassa, kuten esimerkiksi älytelevisioissa, älykelloissa, lieseissä tai pesukoneissa, kuin myös teollisuuden applikaatioissa, kuten bensapumpuilla sekä aikataulunäytöissä.
 
-Kuten artikkelissa mainittiin, olet todennäköisesti tämän luettuasi tänäänkin hyödyntänyt Linuxia!
+Kuten uutisessa mainittiin, olet todennäköisesti tämän luettuasi tänäänkin hyödyntänyt Linuxia!
 
 # 2\. Linux työmarkkinoilla
 
-- ### Miltä näyttää Linux-osaajien työtilanne tällä hetkellä [Open Source Job Reportin 2018](https://www.linuxfoundation.org/publications/2018/06/open-source-jobs-report-2018/) ja [Linux Job Reports 2017](https://resources.linuxfoundation.org/LF+Core/publication_Linux_2017_Jobs_Report_final.pdf) -raportin mukaan? Miten tilanne on kehittynyt edellisiin vuosiin verrattuna?
+- ### Miltä näyttää Linux-osaajien työtilanne tällä hetkellä [Open Source Job Reportin 2018](https://www.linuxfoundation.org/wp-content/uploads/2019/10/osjobsreport_2018.pdf) ja [Linux Job Reports 2017](https://resources.linuxfoundation.org/LF+Core/publication_Linux_2017_Jobs_Report_final.pdf) -raportin mukaan? Miten tilanne on kehittynyt edellisiin vuosiin verrattuna?
 
-Tekstiä
+Vuoden 2018 raportin mukaan avoimen lähdekoodin osaajien rekrytointi on tällä hetkellä prioriteettina 83%:lle rekrytoinnista vastaavista esimiehistä, joka on 76%:n kasvu vuoteen 2017 verrattuna, ja nimenomaan Linux osaaminen on eniten etsitty taito avoimen lähdekoodin osaajien keskuudessa.
+
+Linux osaaminen on 2018 raportin mukaan tällä hetkellä vähimmäisvaatimus alkutason pilvipalvelu- sekä niiden ylläpitotyötehtäviin, ja osaamispulan takia yritykset ovat siirtyneet uudelleenkouluttamaan yrityksen nykyisiä työntekijöitä sekä päivittämään serftifikaatein heidän osaamistaan.
+
+Tämä puolestaan tarkoitti 2018 raportin mukaan hyvää työllisyystilannetta Linux osaajien keskuudessa, joiden työttömyystaso oli laskenut edelliseen vuoteen verrattuna.
+
+Tarkat luvut Linux- sekä avoimen lähdekoodin osaajapulasta ja rekrytointitavoitteista vaihtelivat hieman 2018, 2017, aina 2012 raporttiin asti, mutta osaajapula on kuitenkin ollut jo vuosia jatkuva trendi, jonka seurauksena rekrytoijat sekä työnantajat käyttävät vahvoja keinoja osaajien löytämiseksi, kuten houkuttelevaa palkkaa sekä työsuhde-etuja.
+
+Linux osaaminen on siis taito, joka antaa hyvät edellytykset työllistyä IT-alalle, esimerkiksi pilvipalveluiden sekä niiden järjestelmien ylläpitotyötehtäviin.
 
 ---
 
 - ### Etsi verkosta ja lehdistä työpaikkailmoituksia, joissa haetaan/tarvitaan Linux-osaajia tai osaamista, millaisia löysit? Mitä osaamista ilmoituksissa erityisesti kaivataan, mille aloille ja mihin tehtäviin ilmoitukset sijoittuvat?
 
-Tekstiä
+TE-palveluiden sivusto löysi 17.3.2020 "Linux" -hakusanalla 79 työpaikkaa. Linuxiin liittyviä toimialoja olivat:
+
+- Tekniikan erityisasiantuntijat
+- Myynnin, markkinoinnin ja tiedotuksen asiantuntijat
+- Systeemityön erityisasiantuntijat
+- Tietokantojen,- verkkojen ja ohjelmistojen asiantuntijat
+- Fysiikan, kemian ja teknisten alojen asiantuntijat
+- ICT-alan teknikot ja käyttäjätukihenkilöt
+- Sähkölaitteiden asentajat ja korjaajat
+
+Ohessa kolme erilaista Linuxiin liittyvää työtehtävää:
+
+1. Ohjelmistokehittäjä
+
+![Kuva](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-1.PNG)
+
+CSC-Tieteen ja tietotekniikan keskus etsi itselleen ohjelmistokehittäjää datan sekä metatietojen tallenukseen sekä niihin liittyviin hallintaprosesseihin ja vaatimuksena tehtävään oli lueteltu Linuxin sekä CentOS 7 tuntemus, kuin myös full stack kehitykseen liittyviä tekniikoita, kuten:
+
+- Python, Django, DRF
+- JavaScript, HTML5, CSS, frontti frameworkit
+- Relaatiotietokannat, PostgreSQL
+
+Työtehtävässä siis kaivattiin ohjelmointiosaamisen lisäksi ymmärrystä Linux järjestelmän toiminnasta.
+
+---
+
+2. Tekninen asiakaspalvelija
+
+![Kuva](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-2.PNG)
+
+Vitec Software Group Ab etsi kehittymishaluista vahvan teknisen osaamisen sekä asiakaspalvelutaustan omaavaa henkilöä ratkomaan asiakkaiden ongelmatilanteita, ja vaatimuksena tehtävään vaadittiin vahvaa työasema- ja palvelinosaamista sekä Windows, että Linux ympäristöstä.
+
+Nykyään työelämässä etsitäänkin osaajia, joilla yhdistyy tekninen osaaminen (esimerkiksi Linux osaaminen) kirjallisiin taitoihin, asiakaspalvelutaitoihin, kuin myös kielitaitoihin.
+
+---
+
+![Kuva](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-3.PNG)
+
+3. Linux Specialist
+
+Telia etsii Linux-osaajaa vahvistamaan Datacenter & Cloud Service yksikköä, ja työtehtävässä tehdään vaativaa ongelmanhallintaa. Työtehtävässä onnistumisessa vaaditaan:
+
+- Ymmärrystä Linuxin palvelinkäyttöjärjestelmistä
+- Verkkoteknologioiden ymmärrystä, kuten IP-verkot, palomuurit sekä kuormantasaus
+- Kokemusta tietokantasovelluksista sekä niiden optimoinnista
+- Kokemusta tietokantapalvelimien ylläpidosta
+- Kokemusta tai halua opetella scriptausta
+- Halua suorittaa AWS sertifiointi ensimmäisen 6kk:n aikana
+
+Linux-käyttöjärjestelmän tuntemisesta on siis etua erilaisissa IT-alan työtehtävissä, oli työtehtävä ohjelmistokehitystä, asiakaspalvelutyötä tai vaativaa pilvipalveluiden ylläpitoa, mutta myös halukkuutta uuden oppimiseen ja työtehtävässä kehittymiseen esimerkiksi sertifikaattien osalta arvostetaan.
 
 ---
 
