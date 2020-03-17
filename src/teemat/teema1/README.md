@@ -94,7 +94,7 @@ Työtehtävässä siis kaivattiin ohjelmointiosaamisen lisäksi ymmärrystä Lin
 
 Vitec Software Group Ab etsi kehittymishaluista vahvan teknisen osaamisen sekä asiakaspalvelutaustan omaavaa henkilöä ratkomaan asiakkaiden ongelmatilanteita, ja vaatimuksena tehtävään vaadittiin vahvaa työasema- ja palvelinosaamista sekä Windows, että Linux ympäristöstä.
 
-Nykyään työelämässä tyypillistä onkin, että etsitään osaajia, joilla yhdistyy tekninen osaaminen (esimerkiksi Linux osaaminen) kirjallisiin taitoihin, asiakaspalvelutaitoihin, kuin myös kielitaitoihin. Tässäkin työtehtävässä Linuxin sekä Linux palvelinympäristön tunteminen on varmasti valttikortti erottua joukosta.
+Nykyään työelämässä tyypillistä onkin, että etsitään osaajia, joilla yhdistyy tekninen osaaminen (esimerkiksi Linux osaaminen) kirjallisiin taitoihin, asiakaspalvelutaitoihin, kuin myös kielitaitoihin. Tässäkin työtehtävässä Linuxin sekä Linux palvelinympäristön tunteminen on varmasti valttikortti erottua hakijoiden joukosta ja tarjota työnantajalle arvokasta osaamista.
 
 ---
 
@@ -115,6 +115,25 @@ Linux-käyttöjärjestelmän tuntemisesta on siis etua erilaisissa IT-alan työt
 
 - ### Selvitä mikä on avoimen lähdekoodin rooli ja mihin Open Source -sovelluksia käytetään työmarkkinoilla tänä päivänä?
 
-Tekstiä
+Avoimen lähdekoodin sovelluksia käytetään työmarkkinoilla esimerkiksi työkaluina tai komponentteina muiden sovellusten rakentamiseen, ja niiden etuna on, että ne leikkaavat kehityskustannuksia, kiihdyttävät innovaatiota ja lisäävät ohjelmistokehittäjien tuottavuutta.
+
+_Synopsys Center for Open Source Research & Innovation_ tekemän [auditoinnin](https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2018-ossra.pdf) mukaan tuhannessa yleisesti käytössä olleesta sovelluksesta avoimeen lähdekoodiin perustuvien komponenttien osuus oli 96%, ja avoimen lähdekoodin osuus oli 57% patentoitujen sovellusten koodikannasta.
+
+Esimeriksi Linux on avoimeen lähdekoodiin perustuva sovellus, jonka etuna avoimen lähdkoodin lisäksi on sen luotettavuus, suorituskyky ja muokattavuus eri laiteympäristöihihn, kuten palvelinten ylläpitoon, mobiililaitteisiin, tai muihin älyä sisältäviin laitteisiin.
+
+Muita työmarkkinoilla käytettäviä avoimen lähdekoodin sovelluksia ovat mm:
+
+- Apache Commons Collections
+- Bootstrap
+- Java
+- Node.js
+- OpenJDK
+- PHP
+- Python
+- React
+- Robot Framework
+- Spring Framework
+- TypeScript
+- WordPress
 
 ---
