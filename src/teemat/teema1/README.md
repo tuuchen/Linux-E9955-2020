@@ -78,9 +78,7 @@ TE-palveluiden sivusto löysi 17.3.2020 "Linux" -hakusanalla 79 työpaikkaa. Lin
 
 Ohessa kolme erilaista Linuxiin liittyvää työtehtävää:
 
-1. Ohjelmistokehittäjä
-
-![Kuva](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-1.PNG)
+1. [Ohjelmistokehittäjä](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-1.PNG)
 
 CSC-Tieteen ja tietotekniikan keskus etsi itselleen ohjelmistokehittäjää datan sekä metatietojen tallenukseen sekä niihin liittyviin hallintaprosesseihin ja vaatimuksena tehtävään oli lueteltu Linuxin sekä CentOS 7 tuntemus, kuin myös full stack kehitykseen liittyviä tekniikoita, kuten:
 
@@ -92,19 +90,15 @@ Työtehtävässä siis kaivattiin ohjelmointiosaamisen lisäksi ymmärrystä Lin
 
 ---
 
-2. Tekninen asiakaspalvelija
-
-![Kuva](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-2.PNG)
+2. [Tekninen asiakaspalvelija](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-2.PNG)
 
 Vitec Software Group Ab etsi kehittymishaluista vahvan teknisen osaamisen sekä asiakaspalvelutaustan omaavaa henkilöä ratkomaan asiakkaiden ongelmatilanteita, ja vaatimuksena tehtävään vaadittiin vahvaa työasema- ja palvelinosaamista sekä Windows, että Linux ympäristöstä.
 
-Nykyään työelämässä etsitäänkin osaajia, joilla yhdistyy tekninen osaaminen (esimerkiksi Linux osaaminen) kirjallisiin taitoihin, asiakaspalvelutaitoihin, kuin myös kielitaitoihin.
+Nykyään työelämässä tyypillistä onkin, että etsitään osaajia, joilla yhdistyy tekninen osaaminen (esimerkiksi Linux osaaminen) kirjallisiin taitoihin, asiakaspalvelutaitoihin, kuin myös kielitaitoihin. Tässäkin työtehtävässä Linuxin sekä Linux palvelinympäristön tunteminen on varmasti valttikortti erottua joukosta.
 
 ---
 
-![Kuva](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-3.PNG)
-
-3. Linux Specialist
+3. [Linux Specialist](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-3.PNG)
 
 Telia etsii Linux-osaajaa vahvistamaan Datacenter & Cloud Service yksikköä, ja työtehtävässä tehdään vaativaa ongelmanhallintaa. Työtehtävässä onnistumisessa vaaditaan:
 
