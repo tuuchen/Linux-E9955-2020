@@ -10,9 +10,9 @@
 
 [![Mint](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Mint.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Mint.PNG)
 
-Määritin Linux Mint -virtuaalikoneeseen hieman enemmän keskusmuistia (2048) suositellun 1024mb sijaan, asetin dynaamisen levytilan maksimiarvoksi 10gb, sekä kytkin päälle 3D-kiihdytyksen 128mb videomuistilla.
+Määritin Linux Mint -virtuaalikoneeseen hieman enemmän keskusmuistia (2048) suositellun 1024mb sijaan, sekä kytkin päälle 3D-kiihdytyksen 128mb videomuistilla.
 
-Työskentelykoneestani löytyy tätä kirjoittaessa 32-gigatavua keskustmuistia, 10-teratavua tallenustilaa, sekä 11-gigatavia videomuistia, joten suorituskykyä ja muistia riittää kyllin jaettavaksi myös virtuaalikoneen käyttöön.
+Työskentelykoneestani löytyy tätä kirjoittaessa 32-gigatavua keskustmuistia, 10-teratavua tallenustilaa, sekä 11-gigatavia videomuistia, joten suorituskykyä, muistia ja tallennustilaa riittää kyllin jaettavaksi myös virtuaalikoneen käyttöön.
 
 Linux Mint virtuaalikoneen resoluution muuttamiseksi latasin myös ohjeessa näytetyn Guest Additions -levykuvan, ja levykuvan asettaminen Linux Mint virtuaalikoneeseen pöräytti Mintin työpöydältä asennuksen automaattisesti käytiin ja hoitui näin valmiiksi saakka.
 
