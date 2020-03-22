@@ -8,7 +8,7 @@
 
 [Virtual Boxin](https://www.virtualbox.org/wiki/Downloads) versioksi valikoitui uusin 6.1.4, ja [Linux Mintin](https://www.osboxes.org/linux-mint/) versioksi valitsin valmiina levykuvana 64-bittisen 19.2 Tessa -version. Linux Mint on helppokäyttöinen, moderni ja miellyttävä Linux jakelu Linuxiin tutustumista ajatellen. Osboxes -sivulta löytyvän [ohjeen](https://www.osboxes.org/guide/) avulla Linux Mintin asennus virtuaalikoneeseen kävi mutkitta.
 
-[![Mint](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/mint.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/uutinen-1.PNG)
+[![Mint](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Mint.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Mint.PNG)
 
 Määritin Linux Mint -virtuaalikoneeseen hieman enemmän keskusmuistia (2048) suositellun 1024mb sijaan, asetin dynaamisen levytilan maksimiarvoksi 10gb, sekä kytkin päälle 3D-kiihdytyksen 128mb videomuistilla.
 
@@ -94,4 +94,4 @@ Halusin jatkaa vielä Bioniciin tutustumista hieman nopeammassa laiteympäristö
 
 Asennusohjelman avulla USB-tikulla olevan Bionic-käyttöjärjestelmän asetukset siirtyivät suoraan virtuaalikoneeseen tehtyyn levytilaan.
 
-[![Mint-USB](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/puppy.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/puppy.PNG)
+[![Mint-USB](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Puppy.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Puppy.PNG)
