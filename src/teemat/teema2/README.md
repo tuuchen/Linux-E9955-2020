@@ -78,7 +78,7 @@ Pitkän odotuksen jälkeen aukesi työpöytänäkymä:
 
 ### Puppy Linux: Ubuntu Bionic 64
 
-Kevyempään Puppy Linuxiin perustuvan Ubunty Bionic 64:n käynnistys vanhan USB 2.0 -tikun avulla onnistui huomattavasti nopeammin. Käynnistys tapahtui noin muutamassa minuutissa, ja työpöydällä odotti ohjattu asennus, josta sai valittua mm. aikavyöhykkeen, kieliasetukset, ym. nopeita asetuksia.
+Kevyempään Puppy Linuxiin perustuvan Ubunty Bionic 64:n käynnistys vanhan USB 2.0 -tikun avulla onnistui huomattavasti nopeammin. Käynnistys tapahtui noin muutamassa minuutissa, ja työpöydällä odotti ohjattu asennus, josta sai valittua mm. aikavyöhykkeen, kieliasetukset, ym. käyttäjälle mieluisia asetuksia.
 
 Bionic vaikutti pienestä koostaan huolimatta todella monipuoliselta paketilta.
 
@@ -88,7 +88,7 @@ Latasin vielä kokeilumielessä Bionicin pakettienhallinnasta uuden teeman vasta
 
 [![Mint-USB](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/USB4.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/USB4.PNG)
 
-Halusin jatkaa vielä Bioniciin tutustumista hieman nopeammassa laiteympäristössä, joten tein sille VirtualBoxiin oman Bionic-virtuaalikoneen, jonka käyttöjärjestelmän asensin USB-tikulla olevan Bionic Linuxin asennusohjelman kautta.
+Halusin jatkaa vielä Bioniciin tutustumista hieman nopeammassa laiteympäristössä, joten tein sille VirtualBoxiin oman Puppy Linux-virtuaalikoneen, jonka käyttöjärjestelmän asensin USB-tikulla olevan Bionic Linuxin asennusohjelman kautta.
 
 [![Puppy-installer](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/installer.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/installer.PNG)
 
