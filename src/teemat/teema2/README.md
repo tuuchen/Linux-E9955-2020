@@ -12,8 +12,6 @@
 
 Määritin Linux Mint -virtuaalikoneeseen hieman enemmän keskusmuistia (2048) suositellun 1024mb sijaan, sekä kytkin päälle 3D-kiihdytyksen 128mb videomuistilla.
 
-Työskentelykoneestani löytyy tätä kirjoittaessa 32-gigatavua keskustmuistia, 10-teratavua tallennustilaa, sekä 11-gigatavua videomuistia, joten suorituskykyä, muistia ja tallennustilaa riittää kyllin jaettavaksi myös virtuaalikoneen käyttöön.
-
 Linux Mint virtuaalikoneen resoluution muuttamiseksi latasin myös ohjeessa näytetyn Guest Additions -levykuvan, ja levykuvan asettaminen Linux Mint virtuaalikoneeseen pöräytti Mintin työpöydältä asennuksen automaattisesti käytiin, ja hoitui näin valmiiksi saakka.
 
 ### B. Mielenkiintoiseen jakeluun tutustuminen - SteamOS
