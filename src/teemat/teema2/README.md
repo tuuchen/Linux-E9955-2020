@@ -14,13 +14,13 @@ Määritin Linux Mint -virtuaalikoneeseen hieman enemmän keskusmuistia (2048) s
 
 Työskentelykoneestani löytyy tätä kirjoittaessa 32-gigatavua keskustmuistia, 10-teratavua tallenustilaa, sekä 11-gigatavia videomuistia, joten suorituskykyä, muistia ja tallennustilaa riittää kyllin jaettavaksi myös virtuaalikoneen käyttöön.
 
-Linux Mint virtuaalikoneen resoluution muuttamiseksi latasin myös ohjeessa näytetyn Guest Additions -levykuvan, ja levykuvan asettaminen Linux Mint virtuaalikoneeseen pöräytti Mintin työpöydältä asennuksen automaattisesti käytiin ja hoitui näin valmiiksi saakka.
+Linux Mint virtuaalikoneen resoluution muuttamiseksi latasin myös ohjeessa näytetyn Guest Additions -levykuvan, ja levykuvan asettaminen Linux Mint virtuaalikoneeseen pöräytti Mintin työpöydältä asennuksen automaattisesti käytiin, ja hoitui näin valmiiksi saakka.
 
 ### B. Mielenkiintoiseen jakeluun tutustuminen - SteamOS
 
-Debian jakeluun perustuva SteamOS -käyttöjärjestelmä on kiinnostanut minua vuoden 2013 ensimmäisestä julkaisusta asti. Avoimeen lähdekoodiin perustuva kevyt, selkeä, suositun pelikirjaston päälle rakennettu käyttöjärjestelmä videopelaamiseen tarkoitetun tietokoneen käyttöjärjestelmäksi, jossa resurssit eivät mene hukkaan raskaan taustalla olevan käyttöjärjestelmän takia, ja jolla toisaalta myös onnistuu hiiren ja näppäimistön avulla PC:llä tarkoitettu peruskäyttö.
+Debian jakeluun perustuva SteamOS -käyttöjärjestelmä on kiinnostanut minua vuoden 2013 ensimmäisestä julkaisusta asti. SteamOS on avoimeen lähdekoodiin perustuva kevyt, selkeä, suositun pelikirjaston päälle rakennettu käyttöjärjestelmä videopelaamiseen tarkoitetun tietokoneen käyttöjärjestelmäksi, jossa resurssit eivät mene hukkaan raskaan taustalla olevan käyttöjärjestelmän takia, ja jolla toisaalta myös onnistuu hiiren ja näppäimistön avulla PC:llä tarkoitettu peruskäyttö.
 
-Raudasta ja rakentamisesta kiinnostuneelle henkilkölle pelikonsolit eivät myöskään tarjoa kovinkaan paljoa mahdollisuuksia korjata tai päivittää laitteessa olevaa rautaa siinä määrin kuten kustomoidussa PC:ssä, joten SteamOS yhdistää konsolimaisen käyttöjärjestelmän PC:n laajennettavuuteen.
+Raudasta ja rakentamisesta kiinnostuneelle henkilölle pelikonsolit eivät myöskään tarjoa kovinkaan paljoa mahdollisuuksia kustomoida, korjata tai päivittää laitteessa olevaa rautaa siinä määrin kuten kustomoidussa PC:ssä, joten SteamOS yhdistää konsolimaisen käyttöjärjestelmän PC:n laajennettavuuteen.
 
 Mielenkiinnostani huolimatta aikaisempaa kokemusta minulla ei SteamOS:stä ollut, joten käytin tilaisuuden hyväksi ja tutustuin SteamOS:ään virtuaalikoneen avulla.
 
