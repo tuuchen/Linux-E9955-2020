@@ -137,3 +137,5 @@ Muita työmarkkinoilla käytettäviä avoimen lähdekoodin sovelluksia ovat mm:
 - WordPress
 
 ---
+
+[Teema 2](src/teemat/teema2/README.md)
