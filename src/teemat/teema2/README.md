@@ -24,7 +24,7 @@ Raudasta ja rakentamisesta kiinnostuneelle henkilölle pelikonsolit eivät myös
 
 Mielenkiinnostani huolimatta aikaisempaa kokemusta minulla ei SteamOS:n asentamisesta ollut, joten käytin tilaisuuden hyväksi ja tutustuin SteamOS:ään virtuaalikoneen avulla.
 
-SteamOS:n levykuva löytyi steamin [serveriltä](http://repo.steampowered.com/download/), ja verkosta löytyvien [ohjeiden](https://www.dedoimedo.com/computers/steamos-virtualbox.html) avulla asennus tapahtui helposti toisella virtuaalikoneella näytöllä olevia kuvakkeita seuraamalla.
+SteamOS:n levykuva löytyi steamin [serveriltä](http://repo.steampowered.com/download/), ja verkosta löytyvien [ohjeiden](https://www.dedoimedo.com/computers/steamos-virtualbox.html) avulla asennus tapahtui helposti käyttöjärjestelmän näytöllä olevia kuvakkeita seuraamalla.
 
 ### Oletusnäkymä:
 
