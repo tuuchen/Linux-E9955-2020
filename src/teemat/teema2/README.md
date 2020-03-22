@@ -22,7 +22,7 @@ Debian jakeluun perustuva SteamOS -käyttöjärjestelmä on kiinnostanut minua v
 
 Raudasta ja rakentamisesta kiinnostuneelle henkilölle pelikonsolit eivät myöskään tarjoa kovinkaan paljoa mahdollisuuksia kustomoida, korjata tai päivittää laitteessa olevaa rautaa siinä määrin kuten kustomoidussa PC:ssä, joten SteamOS yhdistää konsolimaisen käyttöjärjestelmän PC:n laajennettavuuteen.
 
-Mielenkiinnostani huolimatta aikaisempaa kokemusta minulla ei SteamOS:stä ollut, joten käytin tilaisuuden hyväksi ja tutustuin SteamOS:ään virtuaalikoneen avulla.
+Mielenkiinnostani huolimatta aikaisempaa kokemusta minulla ei SteamOS:n asentamisesta ollut, joten käytin tilaisuuden hyväksi ja tutustuin SteamOS:ään virtuaalikoneen avulla.
 
 SteamOS:n levykuva löytyi steamin [serveriltä](http://repo.steampowered.com/download/), ja verkosta löytyvien [ohjeiden](https://www.dedoimedo.com/computers/steamos-virtualbox.html) avulla asennus tapahtui helposti toisella virtuaalikoneella näytöllä olevia kuvakkeita seuraamalla.
 
