@@ -138,4 +138,4 @@ Muita työmarkkinoilla käytettäviä avoimen lähdekoodin sovelluksia ovat mm:
 
 ---
 
-[Teema 2](src/teemat/teema2/README.md)
+[Teema 2](../teema2/README.md)
