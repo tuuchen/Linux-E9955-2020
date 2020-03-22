@@ -50,7 +50,7 @@ Azure-pilveen oli kurssilaisille luotu kirjautumislinkit, joiden avulla Azuressa
 
 SSH-etäyhteyden muodostaminen Azure-pilvessä olevaan Linux-koneeseen onnistui myös näppärästi komentrivin kautta.
 
-[![SSH](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/SSH.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/SSH.PNG)
+[![CMD](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/CMD.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/CMD.PNG)
 
 ### B. Linux USB-tikulle - Linux Mint & Puppy Linux
 
