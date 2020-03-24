@@ -110,7 +110,7 @@ Telia etsii Linux-osaajaa vahvistamaan Datacenter & Cloud Service yksikköä, ja
 - Kokemusta tai halua opetella scriptausta
 - Halua suorittaa AWS sertifiointi ensimmäisen 6kk:n aikana
 
-Linux-käyttöjärjestelmän tuntemisesta on siis etua erilaisissa IT-alan työtehtävissä, oli työtehtävä ohjelmistokehitystä, asiakaspalvelutyötä tai vaativaa pilvipalveluiden ylläpitoa, mutta myös halukkuutta uuden oppimiseen ja työtehtävässä kehittymiseen esimerkiksi sertifikaattien osalta arvostetaan.
+Linux-käyttöjärjestelmän tuntemisesta on siis etua erilaisissa IT-alan työtehtävissä, oli työtehtävä ohjelmistokehitystä, asiakaspalvelutyötä tai vaativaa pilvipalveluiden ylläpitoa. Tärkeää on kuitenkin myös oma halukkuus ja kiinnostus uuden oppimiseen.
 
 ---
 
