@@ -80,8 +80,9 @@ Ohessa kolme erilaista Linuxiin liittyvää työtehtävää:
 
 1. [Ohjelmistokehittäjä](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/työpaikka-1.PNG)
 
-CSC-Tieteen ja tietotekniikan keskus etsi itselleen ohjelmistokehittäjää datan sekä metatietojen tallenukseen sekä niihin liittyviin hallintaprosesseihin ja vaatimuksena tehtävään oli lueteltu Linuxin sekä CentOS 7 tuntemus, kuin myös full stack kehitykseen liittyviä tekniikoita, kuten:
+CSC-Tieteen ja tietotekniikan keskus etsi itselleen ohjelmistokehittäjää datan sekä metatietojen tallenukseen sekä niihin liittyviin hallintaprosesseihin ja vaatimuksena tehtävään oli lueteltu Linuxin sekä CentOS 7 tuntemus, kuin myös full stack kehitykseen liittyviä tekniikoita. Työtehtävään oli vaatimuksena listattu:
 
+- Linux, CentOS 7 -tuntemus
 - Python, Django, DRF
 - JavaScript, HTML5, CSS, frontti frameworkit
 - Relaatiotietokannat, PostgreSQL
@@ -94,7 +95,7 @@ Työtehtävässä siis kaivattiin ohjelmointiosaamisen lisäksi ymmärrystä Lin
 
 Vitec Software Group Ab etsi kehittymishaluista vahvan teknisen osaamisen sekä asiakaspalvelutaustan omaavaa henkilöä ratkomaan asiakkaiden ongelmatilanteita, ja vaatimuksena tehtävään vaadittiin vahvaa työasema- ja palvelinosaamista sekä Windows, että Linux ympäristöstä.
 
-Nykyään työelämässä tyypillistä onkin, että etsitään osaajia, joilla yhdistyy tekninen osaaminen (esimerkiksi Linux osaaminen) kirjallisiin taitoihin, asiakaspalvelutaitoihin, kuin myös kielitaitoihin. Tässäkin työtehtävässä Linuxin sekä Linux palvelinympäristön tunteminen on varmasti valttikortti erottua hakijoiden joukosta ja tarjota työnantajalle arvokasta osaamista.
+Nykyään työelämässä tyypillistä onkin, että etsitään osaajia, joilla yhdistyy tekninen osaaminen (esimerkiksi Linux osaaminen) kirjallisiin taitoihin, asiakaspalvelutaitoihin, kuin myös kielitaitoihin. Tässäkin työtehtävässä Linuxin sekä Linux palvelinympäristön tuntemisesta oli etua, sekä valttikortti erottua hakijoiden joukosta ja tarjota työnantajalle arvokasta Linux -osaamista.
 
 ---
 
