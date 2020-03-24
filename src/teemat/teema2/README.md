@@ -22,7 +22,7 @@ Raudasta ja rakentamisesta kiinnostuneelle henkilölle pelikonsolit eivät myös
 
 Mielenkiinnostani huolimatta aikaisempaa kokemusta minulla ei SteamOS:n asentamisesta ollut, joten käytin tilaisuuden hyväksi ja tutustuin SteamOS:ään virtuaalikoneen avulla.
 
-SteamOS:n levykuva löytyi steamin [serveriltä](http://repo.steampowered.com/download/), ja verkosta löytyvien [ohjeiden](https://www.dedoimedo.com/computers/steamos-virtualbox.html) avulla asennus tapahtui helposti käyttöjärjestelmän näytöllä olevia kuvakkeita seuraamalla.
+SteamOS:n levykuva löytyi steamin [serveriltä](http://repo.steampowered.com/download/), ja verkosta löytyvien [ohjeiden](https://www.howtogeek.com/224998/how-to-install-steamos-in-virtualbox/) avulla asennus tapahtui helposti käyttöjärjestelmän näytöllä olevia kuvakkeita seuraamalla.
 
 ### Oletusnäkymä:
 
@@ -46,7 +46,7 @@ Azure-pilveen oli kurssilaisille luotu kirjautumislinkit, joiden avulla Azuressa
 
 [![RPD](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/RPD.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/RPD.PNG)
 
-SSH-etäyhteyden muodostaminen Azure-pilvessä olevaan Linux-koneeseen onnistui myös näppärästi komentrivin kautta.
+SSH-etäyhteyden muodostaminen Azure-pilvessä olevaan Linux-koneeseen onnistui myös näppärästi komentorivin kautta.
 
 [![VM](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/VM.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/VM.PNG)
 

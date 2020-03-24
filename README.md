@@ -2,13 +2,13 @@
 
 Opintojakso on vapaavalintainen opintojakso Laurea-ammattikorkeakoulussa osana tietojenkäsittelyn tutkintoa. Opintojaksolla perehdytään Linux-käyttöjärjestelmän rooliin, sen mahdollisuuksiin osana yritysten tietojärjestelmiä sekä tutustutaan Linux-pohjaisten työasemien ja palvelimien käyttöön ja hallintaan. Aiheina mm. käyttöjärjestelmän asentaminen ja konfigurointi, erilaisten palveluiden/palvelimien asennus ja ylläpito, tavallisimpien sovellusten käyttö, varmuuskopiointi, tietoturva-asiat sekä yksinkertaisten komentoriviohjelmien tuottaminen.
 
-Opintojakson osaamistavoite:
+Opintojakson oppimistavoite:
 
-- Asentaa sekä muokata Linux-käyttöjärjestelmää
-- Käyttää sekä työpöytä- että komentoriviohjelmia
-- Luoda, muokata, poistaa tiedostoja sekä hakemistoja
+- Linux-käyttöjärjestelmän asentaminen sekä muokkaaminen
+- Linux työpöytä- että komentoriviohjelmien käyttäminen
+- Tiedostojen sekä hakemistojen luonti, muokkaus ja poistaminen
 - Kirjoittaa komentoriviskriptejä sekä automatisoida ja ajastaa toimintoja
-- Ylläpitää järjestelmää sekä huolehtien järjestelmän tietoturvasta hyviä käytäntöjä noudattaen
+- Ylläpitää järjestelmää sekä huolehtia järjestelmän tietoturvasta hyviä käytäntöjä noudattaen
 
 ## Sisällysluettelo
 
