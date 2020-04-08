@@ -38,7 +38,7 @@ Tuloste: Tekstitiedosto `myoutput` joka sisältää sanan `Documents`
 
 ---
 
-## 2. Tiedostojen etsiminen.
+## 2. Tiedostojen etsiminen
 
 Miten etsisit locate -komennolla kaikkia tietokoneen mp3 -päätteisiä tiedostoja?
 
@@ -69,3 +69,59 @@ Mitä tekevät komennot which ja whereis? Miten ne eroavat toisistaan?
 `which` näyttää (shell) -komentojen polun PATH -muuttujan alta, `whereis` etsii komennon binääriset, lähde- ja manuaaliset sivutiedostot.
 
 ---
+
+## 3. Tiedostojen pakkaaminen
+
+Pakkaa kotihakemistosi kaikkine alihakemistoineen tar.gz –pakettiin
+
+Komento: `tar cvfz uusipaketti.tar.gz *`
+
+- Pakatun tiedoston koko: 83.8 kB
+
+---
+
+Tee sama xz - pakkausohjelmalla
+
+Komento: `tar cvfJ toinenpaketti.tar.xz *`
+
+- Pakatun tiedoston koko: 40.7 kB
+
+---
+
+Vertaa tiedostojen kokoa, paljonko niillä on eroa?
+
+- XZ pakkaa tehokkaamin puolittaen pakatun tiedoston koon.
+
+## 4. Tiedostojen ja hakemistojen oikeudet
+
+Listaa joku kohdassa kolme pakkaamistasi tiedostoista ja tarkastele sen oikeuksia. Erittele kenellä on oikeus lukea, suorittaa ja kirjoittaa tiedostoa?
+
+`-rw-r--r-- 1 osboxes osboxes 83837 Apr 8 10:08 uusipaketti.tar.gz`
+
+Käyttäjällä `osboxes` on oikeus **lukea** sekä **kirjoittaa** tiedostoa `uusipaketti.tar.gz`.
+
+Ryhmällä `osboxes`, sekä muilla käyttäjillä on oikeus lukea tiedostoa.
+
+---
+
+Muuta tiedoston oikeuksia siten, että kaikilla on oikeus lukea ja kirjoittaa sitä. Esitä ratkaisu sekä kirjain- että numeromuotoista komentoa käyttäen.
+
+Kirjaimin: `chmod a=rw- uusipaketti.tar.gz`
+
+Numeroin: `chmod 666 uusipaketti.tar.gz`
+
+---
+
+Miten poistaisit kohdan b tiedostolta kirjoitusoikeudet kaikilta? Lukuoikeudet saavat jäädä. Esitä ratkaisu sekä kirjain- että numeromuotoista komentoa käyttäen.
+
+Kirjaimin: `chmod a-w uusipaketti.tar.gz`
+
+Numeroin: `chmod 444 uusipaketti.tar.gz`
+
+---
+
+Luo hakemisto ja anna kaikille lukuoikeus sinne, mutta vain omistajalla tulisi olla kirjoitus ja suoritusoikeus siihen. Esitä ratkaisu sekä kirjain- että numeromuotoista komentoa käyttäen.
+
+Kirjaimin: `mkdir -m go-wx hakemisto`
+
+Numeroin: `mkdir -m 744 hakemisto`
