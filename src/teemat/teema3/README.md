@@ -90,7 +90,7 @@ Komento: `tar cvfJ toinenpaketti.tar.xz *`
 
 Vertaa tiedostojen kokoa, paljonko niillä on eroa?
 
-- XZ pakkaa tehokkaamin puolittaen pakatun tiedoston koon.
+- XZ pakkaa tehokkaamin, tässä tapauksessa puolittaen pakatun tiedoston koon.
 
 ## 4. Tiedostojen ja hakemistojen oikeudet
 
@@ -125,3 +125,77 @@ Luo hakemisto ja anna kaikille lukuoikeus sinne, mutta vain omistajalla tulisi o
 Kirjaimin: `mkdir -m go-wx hakemisto`
 
 Numeroin: `mkdir -m 744 hakemisto`
+
+## 5. Grep
+
+Tietojen etsiminen [teksimassan](regexr.com/50udq) seasta.
+
+Sosiaaliturvatunnus:
+
+- Syöte: `grep '[0-9]\{6}-\{0,1\}[0-9]\{3\}[A-Z]\{1\}'`
+
+- Tuloste: `130554-234B`
+
+Sähköposti:
+
+- Syöte: `grep -Eiorh '([[:alnum:]_.-]+@[[:alnum:]_.-]+?\.[[:alpha:].]{2,6})'`
+
+- Tuloste: `foo@demo.net bar.ba@test.co.uk mika@sci.fi mika.stenberg@laurea.fi`
+
+IP-osoite:
+
+- Syöte: `grep -E -o '([0-9]{1,3}[\.]){3}[0-9]{1,3}'`
+
+- Tuloste: `255.255.255.0 127.0.0.1`
+
+Asianajaja, poliisi, lääkäri yhdellä komennolla:
+
+- Syöte: `grep 'asianajaja\|poliisi\|lääkäri'`
+
+Tohtori Jekyll, sekä lukumäärä:
+
+- Syöte: `grep -c 'Tohtori Jekyll'`
+
+- Tuloste: `5`
+
+Rivit, jotka eivät sisällä sanoja "elämä, ei, kuolema":
+
+- Syöte: `grep -vE 'elämä|ei|kuolema'`
+
+## 6. AWK
+
+Käyttäjätunnus -sarake tiedostosta /etc/passwd:
+
+- Syöte: `awk -F: '{print $1}' /etc/passwd`
+
+Aakkosjärjestys edelliseen:
+
+- Syöte: `awk -F: '{print $1}' /etc/passwd | sort`
+
+Käyttäjän komentorivitulkin nimi:
+
+- Syöte: `awk -F: '{print $7}' /etc/passwd`
+
+## 7. SED
+
+Merkkijonon lääkäri korvaaminen merkkijonolla puoskari
+
+- Syöte: `sed -i 's/lääkäri/puoskari/g'`
+
+Sama kuin edellä, mutta korvaat vain 3. ja 4. sanan esiintymän, sekä tulostus toiseen tektstitiedostoon
+
+- Syöte: `sed -i '3,4s/lääkäri/puoskari/g alkuperäinen.txt > kohde.txt`
+
+Miten etsit tiedostosta sanaa veturi ja lisäät kaikkien sen esiintymien ympärille lainausmerkit?
+
+- Syöte: `sed -i 's/veturi/"veturi"/g`
+
+## 8. Tiedostojen manipulointi
+
+Käytä paste komentoa kolmen tiedoston tietojen liittämiseksi yhteen tiedostoon
+
+- Syöte: `paste nimet.txt numerot.txt osoitteet.txt > yhdistetty.txt`
+
+Jaa isompi tekstitiedosto 500-rivin tiedostoihin
+
+- Syöte: `split -l 500 alkuperäinen.txt`
