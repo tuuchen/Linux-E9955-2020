@@ -128,7 +128,7 @@ Numeroin: `mkdir -m 744 hakemisto`
 
 ## 5. Grep
 
-Tietojen etsiminen [teksimassan](regexr.com/50udq) seasta.
+### Tietojen etsiminen [teksimassan](regexr.com/50udq) seasta
 
 Sosiaaliturvatunnus:
 
@@ -147,6 +147,8 @@ IP-osoite:
 - Syöte: `grep -E -o '([0-9]{1,3}[\.]){3}[0-9]{1,3}'`
 
 - Tuloste: `255.255.255.0 127.0.0.1`
+
+### Tietojen etsiminen [teksitiedostosta](http://www.gutenberg.org/cache/epub/14152/pg14152.txt)
 
 Asianajaja, poliisi, lääkäri yhdellä komennolla:
 
@@ -178,13 +180,13 @@ Käyttäjän komentorivitulkin nimi:
 
 ## 7. SED
 
-Merkkijonon lääkäri korvaaminen merkkijonolla puoskari
+Merkkijonon `lääkäri` korvaaminen merkkijonolla `puoskari`
 
 - Syöte: `sed -i 's/lääkäri/puoskari/g'`
 
-Sama kuin edellä, mutta korvaat vain 3. ja 4. sanan esiintymän, sekä tulostus toiseen tektstitiedostoon
+Sama kuin edellä, mutta tulostus toiseen tektstitiedostoon
 
-- Syöte: `sed -i '3,4s/lääkäri/puoskari/g alkuperäinen.txt > kohde.txt`
+- Syöte: `sed 's/lääkäri/puoskari/g alkuperäinen.txt > kohde.txt`
 
 Miten etsit tiedostosta sanaa veturi ja lisäät kaikkien sen esiintymien ympärille lainausmerkit?
 
