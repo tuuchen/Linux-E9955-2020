@@ -38,7 +38,7 @@ Graafisen käyttöliittymän avulla oppilas, sekä oppilaan hakemisto:
 
 `sudo usermod -a -G opettaja opettaja`
 
-[![ryhmät](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/opiskelija.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/ryhmät.png)
+[![ryhmät](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/ryhmät.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/ryhmät.png)
 
 #
 
@@ -54,7 +54,7 @@ Opettajat:
 
 Testi:
 
-[![oikeudet](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/opiskelija.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/oikeudet.png)
+[![oikeudet](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/oikeudet.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/oikeudet.png)
 
 
 
@@ -66,5 +66,5 @@ Lukitaan opiskelija:
 
 `sudo usermod -L opiskelija` 
 
-[![lukittu](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/opiskelija.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/lukittu.png)
+[![lukittu](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/lukittu.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/lukittu.png)
 
