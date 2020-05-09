@@ -19,5 +19,5 @@ Opintojakson järjestys alapuolella.
 | 01    |    [Johdatus Linuxiin, jakelupaketit, työmarkkinat](src/teemat/teema1/README.md)    | [Teema 1](src/teemat/teema1/README.md) |
 | 02    | [Asennus ja peruskäyttö, vaihtoehtoiset asennustavat ](src/teemat/teema2/README.md) | [Teema 2](src/teemat/teema2/README.md) |
 | 03    |                 [Komentorivin käyttö](src/teemat/teema3/README.md)                  | [Teema 3](src/teemat/teema3/README.md) |
-| 04    |                         [TBA](src/teemat/teema4/README.md)                          | [Teema 4](src/teemat/teema4/README.md) |
-| 05    |                         [TBA](src/teemat/teema5/README.md)                          | [Teema 5](src/teemat/teema5/README.md) |
+| 04    |                         [Järjestelmän ylläpito](src/teemat/teema4/README.md)                          | [Teema 4](src/teemat/teema4/README.md) |
+| 05    |                         [Palvelin ja tietoturva-asiaa](src/teemat/teema5/README.md)                          | [Teema 5](src/teemat/teema5/README.md) |
