@@ -58,7 +58,7 @@ Testi:
 
 # 
 
-*1.4 Lukitse "opiskelija" käyttäjän tunnus väliaikaisesti. Voit tehdä tämän joko komentoriviltä tai graafisesta käyttöliittymästä.*
+*1.4. Lukitse "opiskelija" käyttäjän tunnus väliaikaisesti. Voit tehdä tämän joko komentoriviltä tai graafisesta käyttöliittymästä.*
 
 Lukitaan opiskelija: 
 
@@ -70,7 +70,7 @@ Lukitaan opiskelija:
 
 ## 2. Prosessien hallinta
 
-*2.1 Käynnistä komentoriviltä muutamia ohjelmia, esim vlc-mediasoitin ja firefox selain. Selvitä mitkä ovat prosessien ID numerot ja millä prioriteetilla ohjelmat ajetaan? Ota kuvakaappaus tilanteesta.*  
+*2.1. Käynnistä komentoriviltä muutamia ohjelmia, esim vlc-mediasoitin ja firefox selain. Selvitä mitkä ovat prosessien ID numerot ja millä prioriteetilla ohjelmat ajetaan? Ota kuvakaappaus tilanteesta.*  
 
 VLC ID: 5956, prioriteetti 20.
 Firefox ID: 5613, prioriteetti 20.
@@ -79,21 +79,25 @@ Firefox ID: 5613, prioriteetti 20.
 
 # 
 
-*2.2 Muuta prosessien nice-arvoja siten, että niitä ajetaan korkeammalla prioriteetilla.*  
+*2.2. Muuta prosessien nice-arvoja siten, että niitä ajetaan korkeammalla prioriteetilla.*  
 
 [![prioriteetit](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/prioriteetit.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/prioriteetit.png)
 
 # 
 
-*2.3.Lopeta prosessit komentorivillä, käyttäen kill-komentoa. Kokeile erilaisia valitsimia. Kerro mitä valitsimet tekevät.* 
+*2.3. Lopeta prosessit komentorivillä käyttäen kill-komentoa. Kokeile erilaisia valitsimia. Kerro mitä valitsimet tekevät.* 
 
-Prosessien lopettaminen tapahtuu komennolla `kill %työnumero`, tai `kill PID`, tai `pkill ohjelmannimi` tai `killall ohjelmannimi`.
+Prosessien lopettaminen työnumerolla: `kill %työnumero` 
+
+Prosessin lopettaminen prosessin ID:llä: `kill PID` 
+
+Prosessin lopettaminen ohjelman nimellä: `pkill ohjelma` tai `killall ohjelma`
 
 **Seuraavaksi lopetetaan komentorivin avulla VLC sekä Firefox.**
 
-- Tarkistetaan ensin käynnissä olevien taustaprosessien määrä komennolla `jobs`
+- Tarkistetaan ensin käynnissä olevien taustaprosessien numerot komennolla `jobs`
 
-- Tapetaan prosessit komennolla `kill %` työnumeroiden mukaan, VLC `[5]` sekä Firefox `[6]`.
+- Lopetetaan prosessit komennolla `kill %` työnumeroiden mukaan, VLC `[5]` sekä Firefox `[6]`.
 
 - Tarkistetaan prosessit vielä uudelleen komennolla `jobs`. 
 
@@ -101,7 +105,7 @@ Prosessien lopettaminen tapahtuu komennolla `kill %työnumero`, tai `kill PID`, 
 
 # 
 
-*2.4.Etsi käynnistämäsi sovellukset prosessilistauksesta yhdellä tai useammalla grep-komennolla. Miten lopettaisit ne yhdellä komennolla?* 
+*2.4. Etsi käynnistämäsi sovellukset prosessilistauksesta yhdellä tai useammalla grep-komennolla. Miten lopettaisit ne yhdellä komennolla?* 
 
 `pkill -9 -f "\.\/.+\s\.|firefox|vlc|\[^"`
 
