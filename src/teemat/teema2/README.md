@@ -93,3 +93,7 @@ Halusin jatkaa vielä Bioniciin tutustumista hieman nopeammassa laiteympäristö
 Asennusohjelman avulla USB-tikulla olevan Bionic-käyttöjärjestelmän asetukset siirtyivät suoraan virtuaalikoneeseen tehtyyn levytilaan.
 
 [![Mint-USB](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Puppy.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Puppy.PNG)
+
+---
+
+[Teema 3](../teema3/README.md)

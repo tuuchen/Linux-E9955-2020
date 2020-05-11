@@ -201,3 +201,7 @@ Käytä paste komentoa kolmen tiedoston tietojen liittämiseksi yhteen tiedostoo
 Jaa isompi tekstitiedosto 500-rivin tiedostoihin
 
 - Syöte: `split -l 500 alkuperäinen.txt`
+
+---
+
+[Teema 4](../teema4/README.md)

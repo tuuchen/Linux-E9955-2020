@@ -186,3 +186,7 @@ Ainakin yksi, muutoin * -kappaletta.
 Lokien hallinta on olennainen osa palvelimen järjestelmänvalvojan vastuuta. Linux-lokitiedostoja tarkkailemalla saa yksityiskohtaisia ​​tietoja palvelimen suorituskyvystä, tietoturvasta, virheilmoituksista ja niiden taustalla olevista ongelmista. Jos haluaa käyttää ennakoivaa lähestymistapaa palvelimen hallintaan, lokitiedostoja on hyvä seurata myös reaaliajassa.
 
 [![syslog](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/syslog.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/syslog.png)
+
+---
+
+[Teema 5](../teema5/README.md)
