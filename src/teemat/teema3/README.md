@@ -128,7 +128,7 @@ Numeroin: `mkdir -m 744 hakemisto`
 
 ## 5. Grep
 
-### Tietojen etsiminen [teksimassan](regexr.com/50udq) seasta
+### Tietojen etsiminen [tekstimassan](regexr.com/50udq) seasta
 
 Sosiaaliturvatunnus:
 

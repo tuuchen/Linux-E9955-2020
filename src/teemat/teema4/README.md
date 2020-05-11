@@ -87,11 +87,11 @@ Firefox ID: 5613, prioriteetti 20.
 
 *2.3. Lopeta prosessit komentorivillä käyttäen kill-komentoa. Kokeile erilaisia valitsimia. Kerro mitä valitsimet tekevät.* 
 
-Prosessien lopettaminen työnumerolla: `kill %työnumero` 
+Prosessien lopettaminen työnumerolla: `kill %[työnumero]` 
 
-Prosessin lopettaminen prosessin ID:llä: `kill PID` 
+Prosessin lopettaminen prosessin ID:llä: `kill [PID]` 
 
-Prosessin lopettaminen ohjelman nimellä: `pkill ohjelma` tai `killall ohjelma`
+Prosessin lopettaminen ohjelman nimellä: `pkill [ohjelma]` tai `killall [ohjelma]`
 
 **Seuraavaksi lopetetaan komentorivin avulla VLC sekä Firefox.**
 
@@ -105,8 +105,59 @@ Prosessin lopettaminen ohjelman nimellä: `pkill ohjelma` tai `killall ohjelma`
 
 # 
 
-*2.4. Etsi käynnistämäsi sovellukset prosessilistauksesta yhdellä tai useammalla grep-komennolla. Miten lopettaisit ne yhdellä komennolla?* 
+*2.4. Miten lopettaisit käynnistämäsi sovellukset yhdellä komennolla?* 
 
 `pkill -9 -f "\.\/.+\s\.|firefox|vlc|\[^"`
+
+# 
+
+## 3. Resurssien valvonta ja järjestelmälokit 
+
+*3.1 Tee ohjattu harjoitus resurssien hallintaan liittyen luvusta 4.4. "Resurssien hallinta". Vastaa sen jälkeen seuraaviin kysymyksiin:* 
+
+Mikä palveu käyttää eniten suoritinta Htop sovelluksessa?  
+
+- PID 1796 - cinnamon.
+
+Mikä palvelu käyttää eniten muistia?  
+
+- PID 1796 - cinnamon.
+
+
+Kuinka pitkään tietokone on ollut käynnissä?  
+
+- 32 minuuttia.
+
+Kuinka paljon muistia on käytössä yhteensä ja mikä on kokonaismäärä?  
+
+- 620M / 3.85G.
+
+Käynnistä Firefox prosessi, etsi se htop sovelluksella ja lopeta prosessi.  
+
+- [![firefox](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/firefox.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/firefox.png)
+
+Käyttäen Iostat sovellusta katso kuinka paljon levylle on kirjoitettu yhteensä edellisen käynnistyksen jälkeen? Kuinka paljon dataa on luettu?  
+
+
+
+Mikä on ollut koneesi keskimääräinen ulospäin menevä liikenne?  
+
+
+
+Kuinka paljon koneesi on ladannut dataa yhteensä?  
+
+
+
+Mikä on koneesi lokaali IP-osoite?  
+
+
+
+Testaa toimiiko yhteys www.laurea.fi osoitteeseen. Mikä IP-osoite vastaa osoitteesta?  
+
+
+
+Kuinka monta reititintä on matkalla virtuaalikoneestasi osoitteeseen www.laurea.fi?  
+
+
 
 
