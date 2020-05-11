@@ -143,7 +143,7 @@ Lopetan Firefox prosessin lähettämällä signaalin `9 SIGKILL` .
 
 Kirjoitettu 75MB, luettu 691MB.
 
-[![kirjoitettu](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kirjoitettu.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kirjoitettu.png)
+[![kirjoitettu-2](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kirjoitettu-2.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kirjoitettu-2.png)
 
 *Mikä on ollut koneesi keskimääräinen ulospäin menevä liikenne?*  
 
@@ -177,7 +177,7 @@ Ainakin yksi, muutoin * -kappaletta.
 
 ### *3.2 Asenna graafisessa käyttöliittymässä jokin sovellus, jolla voit tutkia järjestelmän lokitiedostoja. Avaa jokin järjestelmän lokeista (hakemistosta /var/logs).* 
 
-[![logit](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/logit.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/logit.png)
+[![logs](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/logs.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/logs.png)
 
 # 
 
