@@ -4,7 +4,7 @@
 
 Asensin teemaa varten Virtual Boxiin valmiin [Kali Linuxin](https://www.osboxes.org/kali-linux/) levykuvan, jonka päivitin komennoilla `sudo apt-get update` sekä `sudo apt-get dist-upgrade`. Tällä tavoin Kaliin hyppääminen oli varsin helppoa ja nopeaa.
 
-[![Kali](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.PNG)
+[![Kali](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.PNG)
 
 ## 5. Palveluita
 
