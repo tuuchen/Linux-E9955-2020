@@ -10,7 +10,7 @@ Asensin teemaa varten Virtual Boxiin valmiin [Kali Linuxin](https://www.osboxes.
 
 ### *5.1. Käynnistä Linux-terminaali ja tutki järjestelmän palveluita. Kuinka monta palvelua on running tilassa?*
 
-[![prosessit-kali](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/prosessit-kali.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/prosessit-kali.PNG)
+[![prosessit-kali](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/prosessit-kali.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/prosessit-kali.png)
 
 - 19 prosessia.
 
