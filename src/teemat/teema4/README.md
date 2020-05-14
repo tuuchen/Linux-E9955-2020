@@ -181,7 +181,7 @@ Ainakin yksi, muutoin * -kappaletta.
 
 # 
 
-### *4. Kokeile tutkia syslog tai messages-tiedostoa käyttämällä "tail -f "komentoa (reaaliaikainen tiedoston seuranta). Missä tilanteissa tällaista seurantaa mielestäsi voisi hyödyntää? *
+### *4. Kokeile tutkia syslog tai messages-tiedostoa käyttämällä "tail -f "komentoa (reaaliaikainen tiedoston seuranta). Missä tilanteissa tällaista seurantaa mielestäsi voisi hyödyntää?*
 
 Lokien hallinta on olennainen osa palvelimen järjestelmänvalvojan vastuuta. Linux-lokitiedostoja tarkkailemalla saa yksityiskohtaisia ​​tietoja palvelimen suorituskyvystä, tietoturvasta, virheilmoituksista ja niiden taustalla olevista ongelmista. Jos haluaa käyttää ennakoivaa lähestymistapaa palvelimen hallintaan, lokitiedostoja on hyvä seurata myös reaaliajassa.
 
