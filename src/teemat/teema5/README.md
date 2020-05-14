@@ -2,13 +2,17 @@
 
 # Palvelin ja tietoturva-asiaa
 
+Asensin teemaa varten Virtual Boxiin valmiin [Kali Linuxin](https://www.osboxes.org/kali-linux/) levykuvan, jonka päivitin komennoilla `sudo apt-get update` sekä `sudo apt-get dist-upgrade`. Tällä tavoin Kaliin hyppääminen oli varsin helppoa ja nopeaa.
+
+[![Kali](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.png)
+
 ## 5. Palveluita
 
 ### *5.1. Käynnistä Linux-terminaali ja tutki järjestelmän palveluita. Kuinka monta palvelua on running tilassa?*
 
 ### *Etsi rsyslog -niminen palvelu. (Lue teoriaosa 5.1!) Millä komennolla löydät palvelun?*  
 
-`service rsyslog status`
+- `service rsyslog status`
 
 *Selvitä:*   
 
@@ -37,7 +41,7 @@
 
 *Uudelleenkäynnistä Rsyslog palvelu.*  
 
-- `sudo systemctl resstart rsyslog`
+- `sudo systemctl restart rsyslog`
 
 [![rsyslog-restart](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/rsyslog-restart.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/rsyslog-restart.png)
 
@@ -68,6 +72,31 @@ done`
 ### *5.2. Linuxin kovennus*
 
 ### *TEHTÄVÄ A: PALOMUURIN ASENNUS JA MUOKKAUS*
+
+*Asenna Linuxiisi UFW sekä GUFW -palomuurisovellukset. Käynnistä palomuuri ja katso sen status.*
+
+[![gufw](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/gufw.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/gufw.png)
+
+
+*Selvitä millaisia sääntöjä palomuurissasi on oletuksena?*
+
+- Oletuksena tuleva liikenne on kielletty, ja lähtevä sallittu. 
+ 
+*Salli kaikki http ja https liikenne koneelle* 
+
+[![fw-allow](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/fw-allow.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/fw-allow.png)
+
+*Kiellä kaikki saapuva ftp liikenne koneelle* 
+
+[![ftp-deny](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/ftp-deny.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/ftp-deny.png)
+
+*Kiellä kaikki ulospäin lähtevä liikenne koneelle porttiin 25* 
+
+[![port-deny](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/port-deny.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/port-deny.png)
+
+*Kiellä kaikki liikenne koneelle IP osoitteesta 15.15.15.51*  
+
+[![ip-deny](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/ip-deny.png)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/ip-deny.png)
 
 ### *TEHTÄVÄ B: LINUXIN KOVENNUS*
 
