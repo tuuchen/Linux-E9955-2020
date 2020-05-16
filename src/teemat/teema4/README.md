@@ -10,17 +10,17 @@ Luodaan komentorivin avulla opettaja, sekä opettajan hakemisto.
 
 Käytin `sudo useradd --create-home -d /home/opettaja opettaja` -komennon sijaan Linuxista löytyvää `adduser` -komentoa, joka tarjoaa näppärän komentorivinkäyttöliittymän käyttäjän lisäämiseen.  
   
-`osboxes@osboxes:~$ sudo adduser opettaja` 
-`Adding user 'opettaja' ...` 
-`Adding new group 'opettaja' (1001) ...` 
-`Adding new user 'opettaja' (1001) with group 'opettaja' ...` 
-`Creating home directory '/home/opettaja' ...` 
-`Copying files from '/etc/skel' ...` 
-`Enter new UNIX password:` 
-`Retype new UNIX password:` 
-`passwd: password updated successfully` 
-`Changing the user information for opettaja` 
-`Enter the new value, or press ENTER for the default` 
+`osboxes@osboxes:~$ sudo adduser opettaja`  
+`Adding user 'opettaja' ...`   
+`Adding new group 'opettaja' (1001) ...`   
+`Adding new user 'opettaja' (1001) with group 'opettaja' ...`   
+`Creating home directory '/home/opettaja' ...`   
+`Copying files from '/etc/skel' ...`   
+`Enter new UNIX password:`   
+`Retype new UNIX password:`   
+`passwd: password updated successfully`   
+`Changing the user information for opettaja`   
+`Enter the new value, or press ENTER for the default`   
 
 	 `Full Name []: Olli Opettaja` 
 	 `Room Number []: 123` 
