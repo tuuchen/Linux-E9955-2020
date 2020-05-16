@@ -123,7 +123,7 @@ done`
 
 - Määritin palomuurin estämään sisään tulevan liikenteen.  
 
-[![kovennus-1](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kovennus.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kovennus.PNG)
+[![kovennus-1](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kovennus-1.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/kovennus-1.PNG)
 
 - Auditoin järjestelmän Lynis sovelluksella.  
 
