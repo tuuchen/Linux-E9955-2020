@@ -151,7 +151,7 @@ done`
 
 *1. Tietokone voi helposti käydä läpi miljoonien salasanojen listan. Yhden suositun listan voi ladata esim. [täältä.](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) Katso tiedoston sisään - montako riviä (eli salasanaa) tiedostossa on?*
 
-- 14344394 riviä / salasanaa.
+- 14 344 394 riviä / salasanaa.
 
 [![rockyou](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/rockyou.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/rockyou.PNG)
 
@@ -170,7 +170,7 @@ e38ad214943daad1d64c102faec29de4afe9da3d
 
 *3. Kokeillaan vielä suomalaisten suosimia salasanoja. Sellaiseenkin on olemassa sanalistoja, esim. [täällä.](http://www.mediafire.com/file/1z0aa9kraz5sr6r/finnish-unknown.txt.gz) Lataa ja pura paketti, katso miltä se näyttää ja montako riviä (eli salasanaa) se sisältää?*
 
-- 36323 riviä / salasanaa.
+- 36 323 riviä / salasanaa.
 
 [![john-3](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-3.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-3.PNG)
 
