@@ -184,11 +184,7 @@ e38ad214943daad1d64c102faec29de4afe9da3d
 e8fad6b858755cecbe3cb110fe2e395d  
 4bb2f549eace9d33b5b27b77ddfc5004*   
 
-- Ylläolevien salasanalistojen avulla ei em. salasanat auenneet.. 
-
-[![john-4](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-4.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-4.PNG)
-
-- ..mutta taivutin John The Ripperin käyttämään näytönohjaimen kiihdytystä brute-forcea varten, sillä näytönohjain on huomattavasti tehokkaampi tekemään laskutoimituksia, mikäli niitä voidaan tehdä rinnakkain. Virtualisointi ei kuitenkaan mahdollista näytönohjaimen käyttöä, joten simppelinä ratkaisuna asensin John The Ripperin windows -ympäristöön, jossa esimerkiksi näytönohjaimen laiteajurit ovat jo valmiiksi asennettu. Näytönohjaimen sai komentoriviltä käyttöön komennolla `--format=[format]-opencl`, jossa `[format]` on haluttu formaatti, esimerkiksi `--format=raw-md5-opencl`, ja koko komennon ollessa esimerkiksi `john --format=raw-md5-opencl passwords.txt`
+- Ylläolevien salasanalistojen avulla ei em. salasanat auenneet, mutta taivutin John The Ripperin käyttämään näytönohjaimen kiihdytystä brute-forcea varten, sillä näytönohjain on huomattavasti tehokkaampi tekemään laskutoimituksia, mikäli niitä voidaan tehdä rinnakkain. Virtualisointi ei kuitenkaan mahdollista näytönohjaimen käyttöä, joten simppelinä ratkaisuna asensin John The Ripperin windows -ympäristöön, jossa esimerkiksi näytönohjaimen laiteajurit ovat jo valmiiksi asennettu. Näytönohjaimen sai komentoriviltä käyttöön komennolla `--format=[format]-opencl`, jossa `[format]` on haluttu formaatti, esimerkiksi `--format=raw-md5-opencl`, ja koko komennon ollessa esimerkiksi `john --format=raw-md5-opencl passwords.txt`
 
 Ohessa salasanat, kun näytönohjain teki työtä yön yli: 
 
