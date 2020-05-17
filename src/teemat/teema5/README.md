@@ -2,7 +2,7 @@
 
 # Palvelin ja tietoturva-asiaa
 
-Asensin teemaa varten Virtual Boxiin valmiin [Kali Linuxin](https://www.osboxes.org/kali-linux/) levykuvan, jonka päivitin komennoilla `sudo apt-get update` sekä `sudo apt-get dist-upgrade`. Tällä tavoin Kaliin hyppääminen oli varsin helppoa ja nopeaa.
+Asensin teemaa varten Virtual Boxiin valmiin [Kali Linuxin](https://www.osboxes.org/kali-linux/) levykuvan, jonka päivitin komennoilla `sudo apt-get update` sekä `sudo apt-get dist-upgrade`. Tällä tavoin omaan Kali-linuxiin hyppääminen oli varsin helppoa ja nopeaa.
 
 [![Kali](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/Kali.PNG)
 
@@ -145,7 +145,7 @@ done`
 
 [![john-1](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-1.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-1.PNG)
 
-- keski, sekä vahva -salasanojen murtaminen vesijäähdytetyllä, sekä 5.1 -gigahertsin kellotaajuudella toimivalla 8-ytimisellä i9-prosessorilla kesti huomattavan kauan, joka sikäli on lohdullista, mutta heikko sekä kali -käyttäjien salasanat ratkesivat varsin nopeasti. Resurssien säästämiseksi en jatkanut testiä loppuun asti.
+- **keski**, sekä **vahva** -käyttäjien salasanojen murtaminen kestää koti-pc:llä huomattavan kauan, mutta **heikko** sekä **kali** -käyttäjien salasanat ratkesivat ymmärrettävästi varsin nopeasti.
 
 ### *TEHTÄVÄ B: Salasanojen murtaminen sanakirjan avulla*
 
@@ -173,3 +173,29 @@ e38ad214943daad1d64c102faec29de4afe9da3d
 - 36323 riviä / salasanaa.
 
 [![john-3](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-3.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-3.PNG)
+
+
+*4. Koita sitten murtaa seuraavat kuvitteellisesta suomalaisesta verkkopalvelusta varastetut salasanat ko. sanalistan avulla.*
+
+*79ee82b17dfb837b1be94a6827fa395a  
+456da125e5a1c0bcc2bdbdc4fd710ac6  
+4a3acc083e1389911f2fe36a42beb1cb  
+0a07967ff5595f1d03a7bf70c3d349b8  
+e8fad6b858755cecbe3cb110fe2e395d  
+4bb2f549eace9d33b5b27b77ddfc5004*   
+
+- Ylläolevien salasanalistojen avulla ei em. salasanat auenneet.. 
+
+[![john-4](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-4.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/john-4.PNG)
+
+- ..mutta taivutin John The Ripperin käyttämään näytönohjaimen kiihdytystä brute-forcea varten, sillä näytönohjain on huomattavasti tehokkaampi tekemään laskutoimituksia, mikäli niitä voidaan tehdä rinnakkain. Virtualisointi ei kuitenkaan mahdollista näytönohjaimen käyttöä, joten simppelinä ratkaisuna asensin John The Ripperin windows -ympäristöön, jossa esimerkiksi näytönohjaimen laiteajurit ovat jo valmiiksi asennettu. Näytönohjaimen sai komentoriviltä käyttöön komennolla `--format=[format]-opencl`, jossa `[format]` on haluttu formaatti, esimerkiksi `--format=raw-md5-opencl`, ja koko komennon ollessa esimerkiksi `john --format=raw-md5-opencl passwords.txt`
+
+Ohessa salasanat, kun näytönohjain teki työtä yön yli: 
+
+- Kohdasta 2. aukesi vielä yksi salasana: 
+
+[![opencl-1](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/opencl-1.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/opencl-1.PNG)
+
+- Kohdasta 4. neljä salasanaa: 
+
+[![opencl-2](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/opencl-2.PNG)](https://raw.githubusercontent.com/tuuchen/Linux-E9955-2020/master/src/materiaali/opencl-2.PNG)
